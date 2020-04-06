@@ -1,0 +1,1977 @@
+<?xml version="1.0"?>
+<Subject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <lessons>
+    <Lesson>
+      <elements>
+        <Element>
+          <textManager>
+            <exist>true</exist>
+            <textItems>
+              <TextItem>
+                <text>1</text>
+                <position>topMiddle</position>
+                <color>
+                  <x>1</x>
+                  <y>1</y>
+                  <z>1</z>
+                  <w>1</w>
+                </color>
+              </TextItem>
+              <TextItem>
+                <text>2</text>
+                <position>middleRight1</position>
+                <color>
+                  <x>1</x>
+                  <y>1</y>
+                  <z>1</z>
+                  <w>1</w>
+                </color>
+              </TextItem>
+              <TextItem>
+                <text>3</text>
+                <position>middleRight2</position>
+                <color>
+                  <x>1</x>
+                  <y>1</y>
+                  <z>1</z>
+                  <w>1</w>
+                </color>
+              </TextItem>
+            </textItems>
+            <delayTime>5</delayTime>
+            <reset>false</reset>
+          </textManager>
+          <audioManager>
+            <exist>true</exist>
+            <audio>Lesson1/(فراشة) تعني أن ننقص عدد من مجموع كما فعلنا الأن</audio>
+            <delayTime>0</delayTime>
+          </audioManager>
+          <imageManager>
+            <exist>false</exist>
+            <imagePosition>topLeft</imagePosition>
+            <delayTime>0</delayTime>
+          </imageManager>
+          <characterManager>
+            <exist>true</exist>
+            <character>Abkareno</character>
+            <animation>A_Catch</animation>
+            <lookAt>Player</lookAt>
+            <audio>
+              <exist>false</exist>
+              <audio />
+              <delayTime>0</delayTime>
+            </audio>
+            <characterMovement>
+              <move>true</move>
+              <waypoints>
+                <AnimationPoints>
+                  <waypoint>abkarenoPoint1</waypoint>
+                  <animation>A_Catch</animation>
+                  <audio>
+                    <exist>false</exist>
+                    <audio>D:/Unity Projects/Adhd Project/ADHD_Demo1/Assets/Resources/Audio/Lesson1/(زرافة) انظروا القطة تقفزمن على السور.ogg</audio>
+                    <delayTime>0</delayTime>
+                  </audio>
+                  <lookAt>Player</lookAt>
+                </AnimationPoints>
+                <AnimationPoints>
+                  <waypoint>abkarenoPoint2</waypoint>
+                  <animation>A_Catch</animation>
+                  <audio>
+                    <exist>false</exist>
+                    <audio />
+                    <delayTime>0</delayTime>
+                  </audio>
+                  <lookAt>Player</lookAt>
+                </AnimationPoints>
+                <AnimationPoints>
+                  <waypoint>abkarenoPoint3</waypoint>
+                  <animation>A_Catch</animation>
+                  <audio>
+                    <exist>false</exist>
+                    <audio />
+                    <delayTime>0</delayTime>
+                  </audio>
+                  <lookAt>Player</lookAt>
+                </AnimationPoints>
+              </waypoints>
+            </characterMovement>
+            <delayTime>0</delayTime>
+          </characterManager>
+          <timelineManager>
+            <exist>false</exist>
+            <timelines />
+          </timelineManager>
+          <questionManager>
+            <exist>false</exist>
+            <URL />
+            <Operationtype>Addition</Operationtype>
+            <buttonName />
+            <Answers />
+            <questionExplanation>
+              <textManager>
+                <exist>false</exist>
+                <textItems />
+                <delayTime>0</delayTime>
+                <reset>false</reset>
+              </textManager>
+              <audioManager>
+                <exist>false</exist>
+                <audio />
+                <delayTime>0</delayTime>
+              </audioManager>
+            </questionExplanation>
+            <instantiationPoint>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </instantiationPoint>
+          </questionManager>
+          <spriteSheetsManager>
+            <exist>false</exist>
+            <spriteName>bicycle</spriteName>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </spriteSheetsManager>
+          <model3DManager>
+            <exist>false</exist>
+            <model3d>Cube</model3d>
+            <modelColor />
+            <modelsPosition>abkarenoIdlePos</modelsPosition>
+            <distanceBetweenObjects>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </distanceBetweenObjects>
+            <catchObject>false</catchObject>
+            <Runtime>false</Runtime>
+            <objectToCatch>Book</objectToCatch>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </model3DManager>
+          <transitionType>Auto</transitionType>
+        </Element>
+        <Element>
+          <textManager>
+            <exist>true</exist>
+            <textItems>
+              <TextItem>
+                <text>traaaaaaaaaa</text>
+                <position>topMiddle</position>
+                <color>
+                  <x>0.709803939</x>
+                  <y>0.5882353</y>
+                  <z>0</z>
+                  <w>1</w>
+                </color>
+              </TextItem>
+              <TextItem>
+                <text />
+                <position>middleMiddle</position>
+                <color>
+                  <x>1</x>
+                  <y>1</y>
+                  <z>1</z>
+                  <w>1</w>
+                </color>
+              </TextItem>
+              <TextItem>
+                <text />
+                <position>middleLeft1</position>
+                <color>
+                  <x>1</x>
+                  <y>1</y>
+                  <z>1</z>
+                  <w>1</w>
+                </color>
+              </TextItem>
+            </textItems>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </textManager>
+          <audioManager>
+            <exist>true</exist>
+            <audio>Lesson1/(عبقرينو) هم 6  سيارات أنقصنا 3 سيارات</audio>
+            <delayTime>1</delayTime>
+          </audioManager>
+          <imageManager>
+            <exist>false</exist>
+            <imagePosition>topLeft</imagePosition>
+            <delayTime>0</delayTime>
+          </imageManager>
+          <characterManager>
+            <exist>true</exist>
+            <character>Abkareno</character>
+            <animation>A_Catch</animation>
+            <lookAt>Player</lookAt>
+            <audio>
+              <exist>false</exist>
+              <audio />
+              <delayTime>0</delayTime>
+            </audio>
+            <characterMovement>
+              <move>false</move>
+              <waypoints />
+            </characterMovement>
+            <delayTime>0</delayTime>
+          </characterManager>
+          <timelineManager>
+            <exist>false</exist>
+            <timelines />
+          </timelineManager>
+          <questionManager>
+            <exist>false</exist>
+            <URL />
+            <Operationtype>Addition</Operationtype>
+            <buttonName />
+            <Answers />
+            <questionExplanation>
+              <textManager>
+                <exist>false</exist>
+                <textItems />
+                <delayTime>0</delayTime>
+                <reset>false</reset>
+              </textManager>
+              <audioManager>
+                <exist>false</exist>
+                <audio />
+                <delayTime>0</delayTime>
+              </audioManager>
+            </questionExplanation>
+            <instantiationPoint>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </instantiationPoint>
+          </questionManager>
+          <spriteSheetsManager>
+            <exist>false</exist>
+            <spriteName>bicycle</spriteName>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </spriteSheetsManager>
+          <model3DManager>
+            <exist>false</exist>
+            <model3d>Cube</model3d>
+            <modelColor />
+            <modelsPosition>abkarenoIdlePos</modelsPosition>
+            <distanceBetweenObjects>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </distanceBetweenObjects>
+            <catchObject>false</catchObject>
+            <Runtime>false</Runtime>
+            <objectToCatch>Book</objectToCatch>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </model3DManager>
+          <transitionType>Auto</transitionType>
+        </Element>
+        <Element>
+          <textManager>
+            <exist>true</exist>
+            <textItems>
+              <TextItem>
+                <text>traaaaaaaaaa</text>
+                <position>topMiddle</position>
+                <color>
+                  <x>0.5289807</x>
+                  <y>0.8971055</y>
+                  <z>0.959534645</z>
+                  <w>1</w>
+                </color>
+              </TextItem>
+            </textItems>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </textManager>
+          <audioManager>
+            <exist>true</exist>
+            <audio>Lesson1/(زرافه) ماذا تعني هذه المعادلة</audio>
+            <delayTime>2</delayTime>
+          </audioManager>
+          <imageManager>
+            <exist>false</exist>
+            <imagePosition>topLeft</imagePosition>
+            <delayTime>0</delayTime>
+          </imageManager>
+          <characterManager>
+            <exist>false</exist>
+            <character>Abkareno</character>
+            <animation>A_Catch</animation>
+            <lookAt>Player</lookAt>
+            <audio>
+              <exist>false</exist>
+              <audio />
+              <delayTime>0</delayTime>
+            </audio>
+            <characterMovement>
+              <move>false</move>
+              <waypoints />
+            </characterMovement>
+            <delayTime>0</delayTime>
+          </characterManager>
+          <timelineManager>
+            <exist>false</exist>
+            <timelines />
+          </timelineManager>
+          <questionManager>
+            <exist>false</exist>
+            <URL />
+            <Operationtype>Addition</Operationtype>
+            <buttonName />
+            <Answers />
+            <questionExplanation>
+              <textManager>
+                <exist>false</exist>
+                <textItems />
+                <delayTime>0</delayTime>
+                <reset>false</reset>
+              </textManager>
+              <audioManager>
+                <exist>false</exist>
+                <audio />
+                <delayTime>0</delayTime>
+              </audioManager>
+            </questionExplanation>
+            <instantiationPoint>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </instantiationPoint>
+          </questionManager>
+          <spriteSheetsManager>
+            <exist>false</exist>
+            <spriteName>bicycle</spriteName>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </spriteSheetsManager>
+          <model3DManager>
+            <exist>false</exist>
+            <model3d>Cube</model3d>
+            <modelColor />
+            <modelsPosition>abkarenoIdlePos</modelsPosition>
+            <distanceBetweenObjects>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </distanceBetweenObjects>
+            <catchObject>false</catchObject>
+            <Runtime>false</Runtime>
+            <objectToCatch>Book</objectToCatch>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </model3DManager>
+          <transitionType>Auto</transitionType>
+        </Element>
+        <Element>
+          <textManager>
+            <exist>true</exist>
+            <textItems>
+              <TextItem>
+                <text>a</text>
+                <position>topMiddle</position>
+                <color>
+                  <x>0</x>
+                  <y>0</y>
+                  <z>0</z>
+                  <w>0</w>
+                </color>
+              </TextItem>
+              <TextItem>
+                <text>b</text>
+                <position>topMiddle</position>
+                <color>
+                  <x>0</x>
+                  <y>0</y>
+                  <z>0</z>
+                  <w>0</w>
+                </color>
+              </TextItem>
+              <TextItem>
+                <text>c</text>
+                <position>topMiddle</position>
+                <color>
+                  <x>0</x>
+                  <y>0</y>
+                  <z>0</z>
+                  <w>0</w>
+                </color>
+              </TextItem>
+            </textItems>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </textManager>
+          <audioManager>
+            <exist>true</exist>
+            <audio>Lesson1/(زرافة) لقد كانوا 8 جزرات</audio>
+            <delayTime>1</delayTime>
+          </audioManager>
+          <imageManager>
+            <exist>false</exist>
+            <imagePosition>topLeft</imagePosition>
+            <delayTime>0</delayTime>
+          </imageManager>
+          <characterManager>
+            <exist>false</exist>
+            <character>Abkareno</character>
+            <animation>A_Catch</animation>
+            <lookAt>Player</lookAt>
+            <audio>
+              <exist>false</exist>
+              <audio />
+              <delayTime>0</delayTime>
+            </audio>
+            <characterMovement>
+              <move>false</move>
+              <waypoints />
+            </characterMovement>
+            <delayTime>0</delayTime>
+          </characterManager>
+          <timelineManager>
+            <exist>false</exist>
+            <timelines />
+          </timelineManager>
+          <questionManager>
+            <exist>false</exist>
+            <URL />
+            <Operationtype>Addition</Operationtype>
+            <buttonName />
+            <Answers />
+            <questionExplanation>
+              <textManager>
+                <exist>false</exist>
+                <textItems />
+                <delayTime>0</delayTime>
+                <reset>false</reset>
+              </textManager>
+              <audioManager>
+                <exist>false</exist>
+                <audio />
+                <delayTime>0</delayTime>
+              </audioManager>
+            </questionExplanation>
+            <instantiationPoint>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </instantiationPoint>
+          </questionManager>
+          <spriteSheetsManager>
+            <exist>false</exist>
+            <spriteName>bicycle</spriteName>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </spriteSheetsManager>
+          <model3DManager>
+            <exist>false</exist>
+            <model3d>Cube</model3d>
+            <modelColor />
+            <modelsPosition>abkarenoIdlePos</modelsPosition>
+            <distanceBetweenObjects>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </distanceBetweenObjects>
+            <catchObject>false</catchObject>
+            <Runtime>false</Runtime>
+            <objectToCatch>Book</objectToCatch>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </model3DManager>
+          <transitionType>Auto</transitionType>
+        </Element>
+        <Element>
+          <textManager>
+            <exist>false</exist>
+            <textItems />
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </textManager>
+          <audioManager>
+            <exist>true</exist>
+            <audio>Lesson1/(عبقرينو) أن نأخذ شئ من مجموعة أشياء</audio>
+            <delayTime>1</delayTime>
+          </audioManager>
+          <imageManager>
+            <exist>false</exist>
+            <imagePosition>topLeft</imagePosition>
+            <delayTime>0</delayTime>
+          </imageManager>
+          <characterManager>
+            <exist>false</exist>
+            <character>Abkareno</character>
+            <animation>A_Catch</animation>
+            <lookAt>Player</lookAt>
+            <audio>
+              <exist>false</exist>
+              <audio />
+              <delayTime>0</delayTime>
+            </audio>
+            <characterMovement>
+              <move>false</move>
+              <waypoints />
+            </characterMovement>
+            <delayTime>0</delayTime>
+          </characterManager>
+          <timelineManager>
+            <exist>false</exist>
+            <timelines />
+          </timelineManager>
+          <questionManager>
+            <exist>false</exist>
+            <URL />
+            <Operationtype>Addition</Operationtype>
+            <buttonName />
+            <Answers />
+            <questionExplanation>
+              <textManager>
+                <exist>false</exist>
+                <textItems />
+                <delayTime>0</delayTime>
+                <reset>false</reset>
+              </textManager>
+              <audioManager>
+                <exist>false</exist>
+                <audio />
+                <delayTime>0</delayTime>
+              </audioManager>
+            </questionExplanation>
+            <instantiationPoint>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </instantiationPoint>
+          </questionManager>
+          <spriteSheetsManager>
+            <exist>false</exist>
+            <spriteName>bicycle</spriteName>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </spriteSheetsManager>
+          <model3DManager>
+            <exist>false</exist>
+            <model3d>Cube</model3d>
+            <modelColor />
+            <modelsPosition>abkarenoIdlePos</modelsPosition>
+            <distanceBetweenObjects>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </distanceBetweenObjects>
+            <catchObject>false</catchObject>
+            <Runtime>false</Runtime>
+            <objectToCatch>Book</objectToCatch>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </model3DManager>
+          <transitionType>Auto</transitionType>
+        </Element>
+        <Element>
+          <textManager>
+            <exist>true</exist>
+            <textItems>
+              <TextItem>
+                <text>rthrtyhrty</text>
+                <position>middleLeft1</position>
+                <color>
+                  <x>0.07058824</x>
+                  <y>0.9843137</y>
+                  <z>0.6784314</z>
+                  <w>1</w>
+                </color>
+              </TextItem>
+              <TextItem>
+                <text>j</text>
+                <position>middleRight1</position>
+                <color>
+                  <x>0</x>
+                  <y>0.00105767627</y>
+                  <z>0</z>
+                  <w>1</w>
+                </color>
+              </TextItem>
+              <TextItem>
+                <text>ytjyt</text>
+                <position>middleLeft1</position>
+                <color>
+                  <x>0.9831294</x>
+                  <y>0.8745098</y>
+                  <z>0.7709962</z>
+                  <w>1</w>
+                </color>
+              </TextItem>
+              <TextItem>
+                <text>fjf</text>
+                <position>middleLeft2</position>
+                <color>
+                  <x>0</x>
+                  <y>0.05490196</y>
+                  <z>0.4392157</z>
+                  <w>1</w>
+                </color>
+              </TextItem>
+              <TextItem>
+                <text>jh</text>
+                <position>topMiddle</position>
+                <color>
+                  <x>0</x>
+                  <y>0.0156862754</y>
+                  <z>0</z>
+                  <w>1</w>
+                </color>
+              </TextItem>
+            </textItems>
+            <delayTime>1</delayTime>
+            <reset>true</reset>
+          </textManager>
+          <audioManager>
+            <exist>false</exist>
+            <audio />
+            <delayTime>0</delayTime>
+          </audioManager>
+          <imageManager>
+            <exist>false</exist>
+            <imagePosition>topLeft</imagePosition>
+            <delayTime>0</delayTime>
+          </imageManager>
+          <characterManager>
+            <exist>false</exist>
+            <character>Abkareno</character>
+            <animation>A_Catch</animation>
+            <lookAt>Player</lookAt>
+            <audio>
+              <exist>false</exist>
+              <audio />
+              <delayTime>0</delayTime>
+            </audio>
+            <characterMovement>
+              <move>false</move>
+              <waypoints />
+            </characterMovement>
+            <delayTime>0</delayTime>
+          </characterManager>
+          <timelineManager>
+            <exist>false</exist>
+            <timelines />
+          </timelineManager>
+          <questionManager>
+            <exist>false</exist>
+            <URL />
+            <Operationtype>Addition</Operationtype>
+            <buttonName />
+            <Answers />
+            <questionExplanation>
+              <textManager>
+                <exist>false</exist>
+                <textItems />
+                <delayTime>0</delayTime>
+                <reset>false</reset>
+              </textManager>
+              <audioManager>
+                <exist>false</exist>
+                <audio />
+                <delayTime>0</delayTime>
+              </audioManager>
+            </questionExplanation>
+            <instantiationPoint>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </instantiationPoint>
+          </questionManager>
+          <spriteSheetsManager>
+            <exist>false</exist>
+            <spriteName>bicycle</spriteName>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </spriteSheetsManager>
+          <model3DManager>
+            <exist>false</exist>
+            <model3d>Cube</model3d>
+            <modelColor />
+            <modelsPosition>abkarenoIdlePos</modelsPosition>
+            <distanceBetweenObjects>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </distanceBetweenObjects>
+            <catchObject>false</catchObject>
+            <Runtime>false</Runtime>
+            <objectToCatch>Book</objectToCatch>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </model3DManager>
+          <transitionType>Auto</transitionType>
+        </Element>
+        <Element>
+          <textManager>
+            <exist>true</exist>
+            <textItems>
+              <TextItem>
+                <text>Go</text>
+                <position>middleRightBig</position>
+                <color>
+                  <x>0.847058833</x>
+                  <y>0.141176477</y>
+                  <z>0.235294119</z>
+                  <w>1</w>
+                </color>
+              </TextItem>
+              <TextItem>
+                <text>To</text>
+                <position>middleMiddleBig</position>
+                <color>
+                  <x>0.807843149</x>
+                  <y>0.007843138</y>
+                  <z>0</z>
+                  <w>1</w>
+                </color>
+              </TextItem>
+              <TextItem>
+                <text>Hell</text>
+                <position>middleLeftBig</position>
+                <color>
+                  <x>0.5749197</x>
+                  <y>0.00182417338</y>
+                  <z>0</z>
+                  <w>1</w>
+                </color>
+              </TextItem>
+              <TextItem>
+                <text>All</text>
+                <position>topMiddle</position>
+                <color>
+                  <x>0.858823538</x>
+                  <y>0.0627451</y>
+                  <z>0.149019614</z>
+                  <w>1</w>
+                </color>
+              </TextItem>
+            </textItems>
+            <delayTime>50</delayTime>
+            <reset>true</reset>
+          </textManager>
+          <audioManager>
+            <exist>false</exist>
+            <audio />
+            <delayTime>0</delayTime>
+          </audioManager>
+          <imageManager>
+            <exist>false</exist>
+            <imagePosition>topLeft</imagePosition>
+            <delayTime>0</delayTime>
+          </imageManager>
+          <characterManager>
+            <exist>false</exist>
+            <character>Abkareno</character>
+            <animation>A_Catch</animation>
+            <lookAt>Player</lookAt>
+            <audio>
+              <exist>false</exist>
+              <audio />
+              <delayTime>0</delayTime>
+            </audio>
+            <characterMovement>
+              <move>false</move>
+              <waypoints />
+            </characterMovement>
+            <delayTime>0</delayTime>
+          </characterManager>
+          <timelineManager>
+            <exist>false</exist>
+            <timelines />
+          </timelineManager>
+          <questionManager>
+            <exist>false</exist>
+            <URL />
+            <Operationtype>Addition</Operationtype>
+            <buttonName />
+            <Answers />
+            <questionExplanation>
+              <textManager>
+                <exist>false</exist>
+                <textItems />
+                <delayTime>0</delayTime>
+                <reset>false</reset>
+              </textManager>
+              <audioManager>
+                <exist>false</exist>
+                <audio />
+                <delayTime>0</delayTime>
+              </audioManager>
+            </questionExplanation>
+            <instantiationPoint>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </instantiationPoint>
+          </questionManager>
+          <spriteSheetsManager>
+            <exist>false</exist>
+            <spriteName>bicycle</spriteName>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </spriteSheetsManager>
+          <model3DManager>
+            <exist>false</exist>
+            <model3d>Cube</model3d>
+            <modelColor />
+            <modelsPosition>abkarenoIdlePos</modelsPosition>
+            <distanceBetweenObjects>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </distanceBetweenObjects>
+            <catchObject>false</catchObject>
+            <Runtime>false</Runtime>
+            <objectToCatch>Book</objectToCatch>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </model3DManager>
+          <transitionType>Auto</transitionType>
+        </Element>
+        <Element>
+          <textManager>
+            <exist>true</exist>
+            <textItems>
+              <TextItem>
+                <text />
+                <position>topMiddle</position>
+                <color>
+                  <x>1</x>
+                  <y>1</y>
+                  <z>1</z>
+                  <w>1</w>
+                </color>
+              </TextItem>
+              <TextItem>
+                <text />
+                <position>topMiddle</position>
+                <color>
+                  <x>1</x>
+                  <y>1</y>
+                  <z>1</z>
+                  <w>1</w>
+                </color>
+              </TextItem>
+            </textItems>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </textManager>
+          <audioManager>
+            <exist>false</exist>
+            <audio />
+            <delayTime>0</delayTime>
+          </audioManager>
+          <imageManager>
+            <exist>false</exist>
+            <imagePosition>topLeft</imagePosition>
+            <delayTime>0</delayTime>
+          </imageManager>
+          <characterManager>
+            <exist>false</exist>
+            <character>Abkareno</character>
+            <animation>A_Catch</animation>
+            <lookAt>Player</lookAt>
+            <audio>
+              <exist>false</exist>
+              <audio />
+              <delayTime>0</delayTime>
+            </audio>
+            <characterMovement>
+              <move>false</move>
+              <waypoints />
+            </characterMovement>
+            <delayTime>0</delayTime>
+          </characterManager>
+          <timelineManager>
+            <exist>false</exist>
+            <timelines />
+          </timelineManager>
+          <questionManager>
+            <exist>false</exist>
+            <URL />
+            <Operationtype>Addition</Operationtype>
+            <buttonName />
+            <Answers />
+            <questionExplanation>
+              <textManager>
+                <exist>false</exist>
+                <textItems />
+                <delayTime>0</delayTime>
+                <reset>false</reset>
+              </textManager>
+              <audioManager>
+                <exist>false</exist>
+                <audio />
+                <delayTime>0</delayTime>
+              </audioManager>
+            </questionExplanation>
+            <instantiationPoint>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </instantiationPoint>
+          </questionManager>
+          <spriteSheetsManager>
+            <exist>false</exist>
+            <spriteName>bicycle</spriteName>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </spriteSheetsManager>
+          <model3DManager>
+            <exist>false</exist>
+            <model3d>Cube</model3d>
+            <modelColor />
+            <modelsPosition>abkarenoIdlePos</modelsPosition>
+            <distanceBetweenObjects>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </distanceBetweenObjects>
+            <catchObject>false</catchObject>
+            <Runtime>false</Runtime>
+            <objectToCatch>Book</objectToCatch>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </model3DManager>
+          <transitionType>Auto</transitionType>
+        </Element>
+        <Element>
+          <textManager>
+            <exist>false</exist>
+            <textItems />
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </textManager>
+          <audioManager>
+            <exist>false</exist>
+            <audio />
+            <delayTime>0</delayTime>
+          </audioManager>
+          <imageManager>
+            <exist>false</exist>
+            <imagePosition>topLeft</imagePosition>
+            <delayTime>0</delayTime>
+          </imageManager>
+          <characterManager>
+            <exist>false</exist>
+            <character>Abkareno</character>
+            <animation>A_Catch</animation>
+            <lookAt>Player</lookAt>
+            <audio>
+              <exist>false</exist>
+              <audio />
+              <delayTime>0</delayTime>
+            </audio>
+            <characterMovement>
+              <move>false</move>
+              <waypoints />
+            </characterMovement>
+            <delayTime>0</delayTime>
+          </characterManager>
+          <timelineManager>
+            <exist>false</exist>
+            <timelines />
+          </timelineManager>
+          <questionManager>
+            <exist>false</exist>
+            <URL />
+            <Operationtype>Addition</Operationtype>
+            <buttonName />
+            <Answers />
+            <questionExplanation>
+              <textManager>
+                <exist>false</exist>
+                <textItems />
+                <delayTime>0</delayTime>
+                <reset>false</reset>
+              </textManager>
+              <audioManager>
+                <exist>false</exist>
+                <audio />
+                <delayTime>0</delayTime>
+              </audioManager>
+            </questionExplanation>
+            <instantiationPoint>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </instantiationPoint>
+          </questionManager>
+          <spriteSheetsManager>
+            <exist>false</exist>
+            <spriteName>bicycle</spriteName>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </spriteSheetsManager>
+          <model3DManager>
+            <exist>false</exist>
+            <model3d>Cube</model3d>
+            <modelColor />
+            <modelsPosition>abkarenoIdlePos</modelsPosition>
+            <distanceBetweenObjects>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </distanceBetweenObjects>
+            <catchObject>false</catchObject>
+            <Runtime>false</Runtime>
+            <objectToCatch>Book</objectToCatch>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </model3DManager>
+          <transitionType>Auto</transitionType>
+        </Element>
+        <Element>
+          <textManager>
+            <exist>false</exist>
+            <textItems />
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </textManager>
+          <audioManager>
+            <exist>false</exist>
+            <audio />
+            <delayTime>0</delayTime>
+          </audioManager>
+          <imageManager>
+            <exist>false</exist>
+            <imagePosition>topLeft</imagePosition>
+            <delayTime>0</delayTime>
+          </imageManager>
+          <characterManager>
+            <exist>false</exist>
+            <character>Abkareno</character>
+            <animation>A_Catch</animation>
+            <lookAt>Player</lookAt>
+            <audio>
+              <exist>false</exist>
+              <audio />
+              <delayTime>0</delayTime>
+            </audio>
+            <characterMovement>
+              <move>false</move>
+              <waypoints />
+            </characterMovement>
+            <delayTime>0</delayTime>
+          </characterManager>
+          <timelineManager>
+            <exist>false</exist>
+            <timelines />
+          </timelineManager>
+          <questionManager>
+            <exist>false</exist>
+            <URL />
+            <Operationtype>Addition</Operationtype>
+            <buttonName />
+            <Answers />
+            <questionExplanation>
+              <textManager>
+                <exist>false</exist>
+                <textItems />
+                <delayTime>0</delayTime>
+                <reset>false</reset>
+              </textManager>
+              <audioManager>
+                <exist>false</exist>
+                <audio />
+                <delayTime>0</delayTime>
+              </audioManager>
+            </questionExplanation>
+            <instantiationPoint>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </instantiationPoint>
+          </questionManager>
+          <spriteSheetsManager>
+            <exist>false</exist>
+            <spriteName>bicycle</spriteName>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </spriteSheetsManager>
+          <model3DManager>
+            <exist>false</exist>
+            <model3d>Cube</model3d>
+            <modelColor />
+            <modelsPosition>abkarenoIdlePos</modelsPosition>
+            <distanceBetweenObjects>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </distanceBetweenObjects>
+            <catchObject>false</catchObject>
+            <Runtime>false</Runtime>
+            <objectToCatch>Book</objectToCatch>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </model3DManager>
+          <transitionType>Auto</transitionType>
+        </Element>
+        <Element>
+          <textManager>
+            <exist>false</exist>
+            <textItems />
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </textManager>
+          <audioManager>
+            <exist>false</exist>
+            <audio />
+            <delayTime>0</delayTime>
+          </audioManager>
+          <imageManager>
+            <exist>false</exist>
+            <imagePosition>topLeft</imagePosition>
+            <delayTime>0</delayTime>
+          </imageManager>
+          <characterManager>
+            <exist>false</exist>
+            <character>Abkareno</character>
+            <animation>A_Catch</animation>
+            <lookAt>Player</lookAt>
+            <audio>
+              <exist>false</exist>
+              <audio />
+              <delayTime>0</delayTime>
+            </audio>
+            <characterMovement>
+              <move>false</move>
+              <waypoints />
+            </characterMovement>
+            <delayTime>0</delayTime>
+          </characterManager>
+          <timelineManager>
+            <exist>false</exist>
+            <timelines />
+          </timelineManager>
+          <questionManager>
+            <exist>false</exist>
+            <URL />
+            <Operationtype>Addition</Operationtype>
+            <buttonName />
+            <Answers />
+            <questionExplanation>
+              <textManager>
+                <exist>false</exist>
+                <textItems />
+                <delayTime>0</delayTime>
+                <reset>false</reset>
+              </textManager>
+              <audioManager>
+                <exist>false</exist>
+                <audio />
+                <delayTime>0</delayTime>
+              </audioManager>
+            </questionExplanation>
+            <instantiationPoint>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </instantiationPoint>
+          </questionManager>
+          <spriteSheetsManager>
+            <exist>false</exist>
+            <spriteName>bicycle</spriteName>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </spriteSheetsManager>
+          <model3DManager>
+            <exist>false</exist>
+            <model3d>Cube</model3d>
+            <modelColor />
+            <modelsPosition>abkarenoIdlePos</modelsPosition>
+            <distanceBetweenObjects>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </distanceBetweenObjects>
+            <catchObject>false</catchObject>
+            <Runtime>false</Runtime>
+            <objectToCatch>Book</objectToCatch>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </model3DManager>
+          <transitionType>Auto</transitionType>
+        </Element>
+        <Element>
+          <textManager>
+            <exist>false</exist>
+            <textItems />
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </textManager>
+          <audioManager>
+            <exist>false</exist>
+            <audio />
+            <delayTime>0</delayTime>
+          </audioManager>
+          <imageManager>
+            <exist>false</exist>
+            <imagePosition>topLeft</imagePosition>
+            <delayTime>0</delayTime>
+          </imageManager>
+          <characterManager>
+            <exist>false</exist>
+            <character>Abkareno</character>
+            <animation>A_Catch</animation>
+            <lookAt>Player</lookAt>
+            <audio>
+              <exist>false</exist>
+              <audio />
+              <delayTime>0</delayTime>
+            </audio>
+            <characterMovement>
+              <move>false</move>
+              <waypoints />
+            </characterMovement>
+            <delayTime>0</delayTime>
+          </characterManager>
+          <timelineManager>
+            <exist>false</exist>
+            <timelines />
+          </timelineManager>
+          <questionManager>
+            <exist>false</exist>
+            <URL />
+            <Operationtype>Addition</Operationtype>
+            <buttonName />
+            <Answers />
+            <questionExplanation>
+              <textManager>
+                <exist>false</exist>
+                <textItems />
+                <delayTime>0</delayTime>
+                <reset>false</reset>
+              </textManager>
+              <audioManager>
+                <exist>false</exist>
+                <audio />
+                <delayTime>0</delayTime>
+              </audioManager>
+            </questionExplanation>
+            <instantiationPoint>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </instantiationPoint>
+          </questionManager>
+          <spriteSheetsManager>
+            <exist>false</exist>
+            <spriteName>bicycle</spriteName>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </spriteSheetsManager>
+          <model3DManager>
+            <exist>false</exist>
+            <model3d>Cube</model3d>
+            <modelColor />
+            <modelsPosition>abkarenoIdlePos</modelsPosition>
+            <distanceBetweenObjects>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </distanceBetweenObjects>
+            <catchObject>false</catchObject>
+            <Runtime>false</Runtime>
+            <objectToCatch>Book</objectToCatch>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </model3DManager>
+          <transitionType>Manual</transitionType>
+        </Element>
+        <Element>
+          <textManager>
+            <exist>false</exist>
+            <textItems />
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </textManager>
+          <audioManager>
+            <exist>false</exist>
+            <audio />
+            <delayTime>0</delayTime>
+          </audioManager>
+          <imageManager>
+            <exist>false</exist>
+            <imagePosition>topLeft</imagePosition>
+            <delayTime>0</delayTime>
+          </imageManager>
+          <characterManager>
+            <exist>false</exist>
+            <character>Abkareno</character>
+            <animation>A_Catch</animation>
+            <lookAt>Player</lookAt>
+            <audio>
+              <exist>false</exist>
+              <audio />
+              <delayTime>0</delayTime>
+            </audio>
+            <characterMovement>
+              <move>false</move>
+              <waypoints />
+            </characterMovement>
+            <delayTime>0</delayTime>
+          </characterManager>
+          <timelineManager>
+            <exist>false</exist>
+            <timelines />
+          </timelineManager>
+          <questionManager>
+            <exist>false</exist>
+            <URL />
+            <Operationtype>Addition</Operationtype>
+            <buttonName />
+            <Answers />
+            <questionExplanation>
+              <textManager>
+                <exist>false</exist>
+                <textItems />
+                <delayTime>0</delayTime>
+                <reset>false</reset>
+              </textManager>
+              <audioManager>
+                <exist>false</exist>
+                <audio />
+                <delayTime>0</delayTime>
+              </audioManager>
+            </questionExplanation>
+            <instantiationPoint>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </instantiationPoint>
+          </questionManager>
+          <spriteSheetsManager>
+            <exist>false</exist>
+            <spriteName>bicycle</spriteName>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </spriteSheetsManager>
+          <model3DManager>
+            <exist>false</exist>
+            <model3d>Cube</model3d>
+            <modelColor />
+            <modelsPosition>abkarenoIdlePos</modelsPosition>
+            <distanceBetweenObjects>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </distanceBetweenObjects>
+            <catchObject>false</catchObject>
+            <Runtime>false</Runtime>
+            <objectToCatch>Book</objectToCatch>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </model3DManager>
+          <transitionType>Auto</transitionType>
+        </Element>
+        <Element>
+          <textManager>
+            <exist>false</exist>
+            <textItems />
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </textManager>
+          <audioManager>
+            <exist>false</exist>
+            <audio />
+            <delayTime>0</delayTime>
+          </audioManager>
+          <imageManager>
+            <exist>false</exist>
+            <imagePosition>topLeft</imagePosition>
+            <delayTime>0</delayTime>
+          </imageManager>
+          <characterManager>
+            <exist>false</exist>
+            <character>Abkareno</character>
+            <animation>A_Catch</animation>
+            <lookAt>Player</lookAt>
+            <audio>
+              <exist>false</exist>
+              <audio />
+              <delayTime>0</delayTime>
+            </audio>
+            <characterMovement>
+              <move>false</move>
+              <waypoints />
+            </characterMovement>
+            <delayTime>0</delayTime>
+          </characterManager>
+          <timelineManager>
+            <exist>false</exist>
+            <timelines />
+          </timelineManager>
+          <questionManager>
+            <exist>false</exist>
+            <URL />
+            <Operationtype>Addition</Operationtype>
+            <buttonName />
+            <Answers />
+            <questionExplanation>
+              <textManager>
+                <exist>false</exist>
+                <textItems />
+                <delayTime>0</delayTime>
+                <reset>false</reset>
+              </textManager>
+              <audioManager>
+                <exist>false</exist>
+                <audio />
+                <delayTime>0</delayTime>
+              </audioManager>
+            </questionExplanation>
+            <instantiationPoint>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </instantiationPoint>
+          </questionManager>
+          <spriteSheetsManager>
+            <exist>false</exist>
+            <spriteName>bicycle</spriteName>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </spriteSheetsManager>
+          <model3DManager>
+            <exist>false</exist>
+            <model3d>Cube</model3d>
+            <modelColor />
+            <modelsPosition>abkarenoIdlePos</modelsPosition>
+            <distanceBetweenObjects>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </distanceBetweenObjects>
+            <catchObject>false</catchObject>
+            <Runtime>false</Runtime>
+            <objectToCatch>Book</objectToCatch>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </model3DManager>
+          <transitionType>Auto</transitionType>
+        </Element>
+        <Element>
+          <textManager>
+            <exist>false</exist>
+            <textItems />
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </textManager>
+          <audioManager>
+            <exist>false</exist>
+            <audio />
+            <delayTime>0</delayTime>
+          </audioManager>
+          <imageManager>
+            <exist>false</exist>
+            <imagePosition>topLeft</imagePosition>
+            <delayTime>0</delayTime>
+          </imageManager>
+          <characterManager>
+            <exist>false</exist>
+            <character>Abkareno</character>
+            <animation>A_Catch</animation>
+            <lookAt>Player</lookAt>
+            <audio>
+              <exist>false</exist>
+              <audio />
+              <delayTime>0</delayTime>
+            </audio>
+            <characterMovement>
+              <move>false</move>
+              <waypoints />
+            </characterMovement>
+            <delayTime>0</delayTime>
+          </characterManager>
+          <timelineManager>
+            <exist>false</exist>
+            <timelines />
+          </timelineManager>
+          <questionManager>
+            <exist>false</exist>
+            <URL />
+            <Operationtype>Addition</Operationtype>
+            <buttonName />
+            <Answers />
+            <questionExplanation>
+              <textManager>
+                <exist>false</exist>
+                <textItems />
+                <delayTime>0</delayTime>
+                <reset>false</reset>
+              </textManager>
+              <audioManager>
+                <exist>false</exist>
+                <audio />
+                <delayTime>0</delayTime>
+              </audioManager>
+            </questionExplanation>
+            <instantiationPoint>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </instantiationPoint>
+          </questionManager>
+          <spriteSheetsManager>
+            <exist>false</exist>
+            <spriteName>bicycle</spriteName>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </spriteSheetsManager>
+          <model3DManager>
+            <exist>false</exist>
+            <model3d>Cube</model3d>
+            <modelColor />
+            <modelsPosition>abkarenoIdlePos</modelsPosition>
+            <distanceBetweenObjects>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </distanceBetweenObjects>
+            <catchObject>false</catchObject>
+            <Runtime>false</Runtime>
+            <objectToCatch>Book</objectToCatch>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </model3DManager>
+          <transitionType>Auto</transitionType>
+        </Element>
+        <Element>
+          <textManager>
+            <exist>false</exist>
+            <textItems />
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </textManager>
+          <audioManager>
+            <exist>false</exist>
+            <audio />
+            <delayTime>0</delayTime>
+          </audioManager>
+          <imageManager>
+            <exist>false</exist>
+            <imagePosition>topLeft</imagePosition>
+            <delayTime>0</delayTime>
+          </imageManager>
+          <characterManager>
+            <exist>false</exist>
+            <character>Abkareno</character>
+            <animation>A_Catch</animation>
+            <lookAt>Player</lookAt>
+            <audio>
+              <exist>false</exist>
+              <audio />
+              <delayTime>0</delayTime>
+            </audio>
+            <characterMovement>
+              <move>false</move>
+              <waypoints />
+            </characterMovement>
+            <delayTime>0</delayTime>
+          </characterManager>
+          <timelineManager>
+            <exist>false</exist>
+            <timelines />
+          </timelineManager>
+          <questionManager>
+            <exist>false</exist>
+            <URL />
+            <Operationtype>Addition</Operationtype>
+            <buttonName />
+            <Answers />
+            <questionExplanation>
+              <textManager>
+                <exist>false</exist>
+                <textItems />
+                <delayTime>0</delayTime>
+                <reset>false</reset>
+              </textManager>
+              <audioManager>
+                <exist>false</exist>
+                <audio />
+                <delayTime>0</delayTime>
+              </audioManager>
+            </questionExplanation>
+            <instantiationPoint>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </instantiationPoint>
+          </questionManager>
+          <spriteSheetsManager>
+            <exist>false</exist>
+            <spriteName>bicycle</spriteName>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </spriteSheetsManager>
+          <model3DManager>
+            <exist>false</exist>
+            <model3d>Cube</model3d>
+            <modelColor />
+            <modelsPosition>abkarenoIdlePos</modelsPosition>
+            <distanceBetweenObjects>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </distanceBetweenObjects>
+            <catchObject>false</catchObject>
+            <Runtime>false</Runtime>
+            <objectToCatch>Book</objectToCatch>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </model3DManager>
+          <transitionType>Auto</transitionType>
+        </Element>
+        <Element>
+          <textManager>
+            <exist>false</exist>
+            <textItems />
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </textManager>
+          <audioManager>
+            <exist>false</exist>
+            <audio />
+            <delayTime>0</delayTime>
+          </audioManager>
+          <imageManager>
+            <exist>false</exist>
+            <imagePosition>topLeft</imagePosition>
+            <delayTime>0</delayTime>
+          </imageManager>
+          <characterManager>
+            <exist>false</exist>
+            <character>Abkareno</character>
+            <animation>A_Catch</animation>
+            <lookAt>Player</lookAt>
+            <audio>
+              <exist>false</exist>
+              <audio />
+              <delayTime>0</delayTime>
+            </audio>
+            <characterMovement>
+              <move>false</move>
+              <waypoints />
+            </characterMovement>
+            <delayTime>0</delayTime>
+          </characterManager>
+          <timelineManager>
+            <exist>false</exist>
+            <timelines />
+          </timelineManager>
+          <questionManager>
+            <exist>false</exist>
+            <URL />
+            <Operationtype>Addition</Operationtype>
+            <buttonName />
+            <Answers />
+            <questionExplanation>
+              <textManager>
+                <exist>false</exist>
+                <textItems />
+                <delayTime>0</delayTime>
+                <reset>false</reset>
+              </textManager>
+              <audioManager>
+                <exist>false</exist>
+                <audio />
+                <delayTime>0</delayTime>
+              </audioManager>
+            </questionExplanation>
+            <instantiationPoint>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </instantiationPoint>
+          </questionManager>
+          <spriteSheetsManager>
+            <exist>false</exist>
+            <spriteName>bicycle</spriteName>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </spriteSheetsManager>
+          <model3DManager>
+            <exist>false</exist>
+            <model3d>Cube</model3d>
+            <modelColor />
+            <modelsPosition>abkarenoIdlePos</modelsPosition>
+            <distanceBetweenObjects>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </distanceBetweenObjects>
+            <catchObject>false</catchObject>
+            <Runtime>false</Runtime>
+            <objectToCatch>Book</objectToCatch>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </model3DManager>
+          <transitionType>Auto</transitionType>
+        </Element>
+        <Element>
+          <textManager>
+            <exist>false</exist>
+            <textItems />
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </textManager>
+          <audioManager>
+            <exist>false</exist>
+            <audio />
+            <delayTime>0</delayTime>
+          </audioManager>
+          <imageManager>
+            <exist>false</exist>
+            <imagePosition>topLeft</imagePosition>
+            <delayTime>0</delayTime>
+          </imageManager>
+          <characterManager>
+            <exist>false</exist>
+            <character>Abkareno</character>
+            <animation>A_Catch</animation>
+            <lookAt>Player</lookAt>
+            <audio>
+              <exist>false</exist>
+              <audio />
+              <delayTime>0</delayTime>
+            </audio>
+            <characterMovement>
+              <move>false</move>
+              <waypoints />
+            </characterMovement>
+            <delayTime>0</delayTime>
+          </characterManager>
+          <timelineManager>
+            <exist>false</exist>
+            <timelines />
+          </timelineManager>
+          <questionManager>
+            <exist>false</exist>
+            <URL />
+            <Operationtype>Addition</Operationtype>
+            <buttonName />
+            <Answers />
+            <questionExplanation>
+              <textManager>
+                <exist>false</exist>
+                <textItems />
+                <delayTime>0</delayTime>
+                <reset>false</reset>
+              </textManager>
+              <audioManager>
+                <exist>false</exist>
+                <audio />
+                <delayTime>0</delayTime>
+              </audioManager>
+            </questionExplanation>
+            <instantiationPoint>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </instantiationPoint>
+          </questionManager>
+          <spriteSheetsManager>
+            <exist>false</exist>
+            <spriteName>bicycle</spriteName>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </spriteSheetsManager>
+          <model3DManager>
+            <exist>false</exist>
+            <model3d>Cube</model3d>
+            <modelColor />
+            <modelsPosition>abkarenoIdlePos</modelsPosition>
+            <distanceBetweenObjects>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </distanceBetweenObjects>
+            <catchObject>false</catchObject>
+            <Runtime>false</Runtime>
+            <objectToCatch>Book</objectToCatch>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </model3DManager>
+          <transitionType>Auto</transitionType>
+        </Element>
+        <Element>
+          <textManager>
+            <exist>false</exist>
+            <textItems />
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </textManager>
+          <audioManager>
+            <exist>false</exist>
+            <audio />
+            <delayTime>0</delayTime>
+          </audioManager>
+          <imageManager>
+            <exist>false</exist>
+            <imagePosition>topLeft</imagePosition>
+            <delayTime>0</delayTime>
+          </imageManager>
+          <characterManager>
+            <exist>false</exist>
+            <character>Abkareno</character>
+            <animation>A_Catch</animation>
+            <lookAt>Player</lookAt>
+            <audio>
+              <exist>false</exist>
+              <audio />
+              <delayTime>0</delayTime>
+            </audio>
+            <characterMovement>
+              <move>false</move>
+              <waypoints />
+            </characterMovement>
+            <delayTime>0</delayTime>
+          </characterManager>
+          <timelineManager>
+            <exist>false</exist>
+            <timelines />
+          </timelineManager>
+          <questionManager>
+            <exist>false</exist>
+            <URL />
+            <Operationtype>Addition</Operationtype>
+            <buttonName />
+            <Answers />
+            <questionExplanation>
+              <textManager>
+                <exist>false</exist>
+                <textItems />
+                <delayTime>0</delayTime>
+                <reset>false</reset>
+              </textManager>
+              <audioManager>
+                <exist>false</exist>
+                <audio />
+                <delayTime>0</delayTime>
+              </audioManager>
+            </questionExplanation>
+            <instantiationPoint>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </instantiationPoint>
+          </questionManager>
+          <spriteSheetsManager>
+            <exist>false</exist>
+            <spriteName>bicycle</spriteName>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </spriteSheetsManager>
+          <model3DManager>
+            <exist>false</exist>
+            <model3d>Cube</model3d>
+            <modelColor />
+            <modelsPosition>abkarenoIdlePos</modelsPosition>
+            <distanceBetweenObjects>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </distanceBetweenObjects>
+            <catchObject>false</catchObject>
+            <Runtime>false</Runtime>
+            <objectToCatch>Book</objectToCatch>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </model3DManager>
+          <transitionType>Auto</transitionType>
+        </Element>
+        <Element>
+          <textManager>
+            <exist>false</exist>
+            <textItems />
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </textManager>
+          <audioManager>
+            <exist>false</exist>
+            <audio />
+            <delayTime>0</delayTime>
+          </audioManager>
+          <imageManager>
+            <exist>false</exist>
+            <imagePosition>topLeft</imagePosition>
+            <delayTime>0</delayTime>
+          </imageManager>
+          <characterManager>
+            <exist>false</exist>
+            <character>Abkareno</character>
+            <animation>A_Catch</animation>
+            <lookAt>Player</lookAt>
+            <audio>
+              <exist>false</exist>
+              <audio />
+              <delayTime>0</delayTime>
+            </audio>
+            <characterMovement>
+              <move>false</move>
+              <waypoints />
+            </characterMovement>
+            <delayTime>0</delayTime>
+          </characterManager>
+          <timelineManager>
+            <exist>false</exist>
+            <timelines />
+          </timelineManager>
+          <questionManager>
+            <exist>false</exist>
+            <URL />
+            <Operationtype>Addition</Operationtype>
+            <buttonName />
+            <Answers />
+            <questionExplanation>
+              <textManager>
+                <exist>false</exist>
+                <textItems />
+                <delayTime>0</delayTime>
+                <reset>false</reset>
+              </textManager>
+              <audioManager>
+                <exist>false</exist>
+                <audio />
+                <delayTime>0</delayTime>
+              </audioManager>
+            </questionExplanation>
+            <instantiationPoint>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </instantiationPoint>
+          </questionManager>
+          <spriteSheetsManager>
+            <exist>false</exist>
+            <spriteName>bicycle</spriteName>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </spriteSheetsManager>
+          <model3DManager>
+            <exist>false</exist>
+            <model3d>Cube</model3d>
+            <modelColor />
+            <modelsPosition>abkarenoIdlePos</modelsPosition>
+            <distanceBetweenObjects>
+              <x>0</x>
+              <y>0</y>
+              <z>0</z>
+            </distanceBetweenObjects>
+            <catchObject>false</catchObject>
+            <Runtime>false</Runtime>
+            <objectToCatch>Book</objectToCatch>
+            <delayTime>0</delayTime>
+            <reset>false</reset>
+          </model3DManager>
+          <transitionType>Auto</transitionType>
+        </Element>
+      </elements>
+    </Lesson>
+  </lessons>
+</Subject>
